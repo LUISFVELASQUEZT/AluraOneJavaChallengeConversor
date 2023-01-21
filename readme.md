@@ -1,6 +1,5 @@
-Alura Latam Oracle One
-Java Challenge
-Dec 2023
+Alura Latam Oracle Java Challenge One Dec 2022
+
 Money conversion 
 Luis F Velasquezt T
 luisvelasquezt@protonmail.com
