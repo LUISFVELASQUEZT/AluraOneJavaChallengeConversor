@@ -1,3 +1,4 @@
+# By @LuisFVelta
 import sqlite3 as sq
 myDB = "learning.db"
 myDB = "learning.db"
