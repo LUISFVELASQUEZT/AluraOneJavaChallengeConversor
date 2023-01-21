@@ -1,6 +1,7 @@
 import sqlite3 as sq
 myDB = "learning.db"
 myDB = "learning.db"
+# connection to a db
 try:
     sqConexion = sq.connect(myDB)
     cursor=sqConexion.cursor()
